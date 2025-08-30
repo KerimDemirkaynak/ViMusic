@@ -8,7 +8,7 @@
     <string name="format_kbps">%1$s kbps</string>
     <string name="format_ms">%1$s ms</string>
     <string name="format_px">%1$s px</string>
-    <string name="format_go_to_artist">%1$s hakkında daha fazla</string>
+    <string name="format_go_to_artist">%1$s hakkında daha fazlası</string>
     <string name="format_top_playlist">En İyi %1$s</string>
     <string name="format_my_top_playlist">Benim En İyi %1$s</string>
     <string name="format_view_top_of_header">En iyi %1$s listesini gör...</string>
@@ -93,7 +93,7 @@
     <string name="quote_close">„</string>
     <string name="moods_and_genres">Modlar ve Türler</string>
     <string name="new_released_albums">Yeni Çıkanlar</string>
-    <string name="more">Daha Fazla</string>
+    <string name="more">Daha Fazlası</string>
     <string name="artist_has_no_albums">Bu sanatçı henüz bir albüm yayınlamadı</string>
     <string name="artist_has_no_singles">Bu sanatçı henüz bir tekli yayınlamadı</string>
     <string name="error_message">Bir hata oluştu</string>
@@ -186,7 +186,7 @@
     <string name="use_system_font">Sistem yazı tipini kullan</string>
     <string name="use_system_font_description">Sistem tarafından uygulanan yazı tipini kullan</string>
     <string name="apply_font_padding">Yazı tipi dolgusu uygula</string>
-    <string name="apply_font_padding_description">Metinlerin etrafına boşluk ekle</string>
+    <string name="apply_font_padding_description">Metinlerin etrafına boşluk ekler</string>
     <string name="language">Dil</string>
     <string name="lockscreen">Kilit Ekranı</string>
     <string name="show_song_cover">Şarkı kapağını göster</string>
